@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
 function say($what)
 {
     echo $what;
